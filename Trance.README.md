@@ -8,3 +8,6 @@ Using only HTML and CSS.
 Based off of FreeCodeCamp.org
 
 and using it to learn to use GitHub
+
+
+new changes made 5 min later..
